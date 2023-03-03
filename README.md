@@ -36,7 +36,7 @@
     <li>Visit <code>http://localhost:3000/</code> in your web browser.</li>
     <li>Click "Sign up" to create a new account or "Log in" if you already have an account.</li>
     <li>Once you're logged in, you'll see your dashboard, which shows all of your tasks, projects, and notes.</li>
-    <li>To create a new task, click "New Task" and fill in the form with the task's name, description, due date, priority level, project, and category.</li>
+    <li>To create a new task, click "New Task" and fill in the form with the task's name, description, due date, priority level.</li>
     <li>To create a new project, click "New Project" and fill in the form with the project's name and description.</li>
     <li>To create a new note, click "New note" and fill in the form with the note's name and description.</li>
     <li>To edit or delete a task, project, or note, click on the corresponding link in your dashboard.</li>
